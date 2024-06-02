@@ -1,0 +1,139 @@
+/* Head */
+* {
+    background-color: #E7E7E7 ;
+}
+.heading {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+.sub-heading {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+.paragraph {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: auto;
+    text-align: center;
+    width: 50%;  
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-wrap: pretty;
+}
+
+div {
+    padding: 20px; 
+}
+
+.overlay-text {
+    text-align: center;
+    text-wrap: wrap;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.container {
+    border: 5px solid #fff;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.color-panel {
+display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.nardo-gray {
+    background-color: #838383;
+    color: black;
+}
+
+.ferrari-red {
+    background-color: #F70D1A;
+    color: black;
+}
+
+.midnight-blue {
+    background-color: #191970;
+    color: white;
+}
+
+.iridescent-purple {
+    background-color:  #966fd6;
+    color: white;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.ligth-roboto {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.regular-roboto {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+
+.bold-roboto {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.light-lato {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.regular-lato {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bold-lato {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.regular-madimi {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
